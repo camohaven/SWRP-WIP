@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"WildFyre SWRP"
+	"author"	"Gemini"
+	"menusystem" "1"
+}
